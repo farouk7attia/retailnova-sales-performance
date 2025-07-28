@@ -1,6 +1,6 @@
 retailnova-sales-performance
 
-![Dashboard Preview](visuals/RetailNova.png)
+
 
 This is a business data analysis project using Python and Power BI for the fictional company RetailNova.  
 It focuses on understanding sales performance across different cities and product categories.
