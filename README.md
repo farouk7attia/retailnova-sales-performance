@@ -21,10 +21,11 @@ requirements.txt            - Python libraries used
 
 Insights
 
-- Hamburg and Berlin generate the highest revenue  
-- Technology category has the strongest profit margin  
-- Profit differences are affected by cost variation across cities  
-- Sales tend to peak in Q2 and Q4  
+- Salzburg and München generate the highest revenue
+- Accessories category brings the highest revenue share
+- Profit differences are driven by unit cost and product type
+- Sales tend to peak in April and August
+
 
 Tools Used
 
